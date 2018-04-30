@@ -1,0 +1,6 @@
+D:\ConsoleApplication\LSP\LSP\bin\Debug\LSP.exe.config
+D:\ConsoleApplication\LSP\LSP\bin\Debug\LSP.exe
+D:\ConsoleApplication\LSP\LSP\bin\Debug\LSP.pdb
+D:\ConsoleApplication\LSP\LSP\obj\Debug\LSP.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication\LSP\LSP\obj\Debug\LSP.exe
+D:\ConsoleApplication\LSP\LSP\obj\Debug\LSP.pdb
