@@ -28,6 +28,7 @@ namespace LSP
         public override string GetEmployeeDetails(int employeeId)
         {
             return "Child Employee";
+            //test git commit
         }
     }
     public class ContractualEmployee : IEmployee
@@ -37,10 +38,10 @@ namespace LSP
             return "Child Project";
         }
         // May be for contractual employee we do not need to store the details into database.
-        //public override string GetEmployeeDetails(int employeeId)
-        //{
-        //    throw new NotImplementedException();
-        //}
+        public override string GetEmployeeDetails(int employeeId)
+        {
+            throw new NotImplementedException();
+        }
 
         //public string GetEmployeeDetails(int employeeId)
         //{
