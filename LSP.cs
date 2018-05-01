@@ -47,5 +47,12 @@ namespace LSP
         {
             throw new NotImplementedException();
         }
+
+        public void getMsg()
+        {
+            Console.WriteLine("added new method getMsg");
+        }
     }
+
+
 }
