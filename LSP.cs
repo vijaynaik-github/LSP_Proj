@@ -43,9 +43,9 @@ namespace LSP
             throw new NotImplementedException();
         }
 
-        //public string GetEmployeeDetails(int employeeId)
-        //{
-        //    throw new NotImplementedException();
-        //}
+        public string GetEmployeeDetails(int employeeId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
